@@ -1,0 +1,20 @@
+.checkout_fee td{
+	border: 0;
+}
+
+.checkout_fee{
+	border: 0;
+}
+.shop_table{
+	widows: 40%;
+	float: right;
+}
+.shop_table td{
+	border: 0;
+}
+
+@media screen and (max-width: 921px) {
+  .shop_table{
+		widows: 100%;
+	}
+}

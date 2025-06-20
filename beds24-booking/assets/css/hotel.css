@@ -1,0 +1,28 @@
+.param input{
+    background-color: inherit !important;
+    border: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Roboto-Regular;
+    font-size: 18px;
+    width: 100%;
+    padding: 0;
+    cursor: pointer;
+}
+.param input:focus-visible{
+    border: none !important;
+    outline: none;
+}
+.param select{
+    background-color: inherit !important;
+    border: none;
+    font-family: Roboto-Regular;
+    font-size: 18px;
+    padding: 0 36px 0 0;
+    cursor: pointer;
+}
+.notBuy{
+    background: #cecece !important;
+    color: white;
+}
+
